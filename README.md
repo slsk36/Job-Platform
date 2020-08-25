@@ -1,0 +1,32 @@
+# Job-Platform
+C#으로 개발한 구인구직 플랫폼
+
+### PPT
+-----------------
+![슬라이드1](https://user-images.githubusercontent.com/54762216/91238930-1eadff00-e779-11ea-82d7-c4a0c1fc121d.JPG)
+![슬라이드2](https://user-images.githubusercontent.com/54762216/91238931-1fdf2c00-e779-11ea-94f4-76f9a52de420.JPG)
+![슬라이드3](https://user-images.githubusercontent.com/54762216/91238932-1fdf2c00-e779-11ea-886d-9141995a16dc.JPG)
+![슬라이드4](https://user-images.githubusercontent.com/54762216/91238934-2077c280-e779-11ea-89ac-0a8c2c76b861.JPG)
+![슬라이드5](https://user-images.githubusercontent.com/54762216/91238935-21105900-e779-11ea-91ec-2227f1f85732.JPG)
+![슬라이드6](https://user-images.githubusercontent.com/54762216/91238936-21105900-e779-11ea-8761-8126e23896f3.JPG)
+![슬라이드7](https://user-images.githubusercontent.com/54762216/91238937-21a8ef80-e779-11ea-97e5-69740af9aedd.JPG)
+![슬라이드8](https://user-images.githubusercontent.com/54762216/91238938-21a8ef80-e779-11ea-87ed-fd97efdb8c16.JPG)
+![슬라이드9](https://user-images.githubusercontent.com/54762216/91238939-22418600-e779-11ea-9f4a-a9106a381f11.JPG)
+![슬라이드10](https://user-images.githubusercontent.com/54762216/91238941-2372b300-e779-11ea-8f3b-35e8a57168fb.JPG)
+![슬라이드11](https://user-images.githubusercontent.com/54762216/91238942-2372b300-e779-11ea-9725-59bc69915176.JPG)
+![슬라이드12](https://user-images.githubusercontent.com/54762216/91238943-240b4980-e779-11ea-8d19-600c92f506e9.JPG)
+![슬라이드13](https://user-images.githubusercontent.com/54762216/91238944-240b4980-e779-11ea-9525-382438f71148.JPG)
+![슬라이드14](https://user-images.githubusercontent.com/54762216/91238945-24a3e000-e779-11ea-94b8-da1c8442160f.JPG)
+![슬라이드15](https://user-images.githubusercontent.com/54762216/91238947-24a3e000-e779-11ea-8048-4742174f055a.JPG)
+![슬라이드16](https://user-images.githubusercontent.com/54762216/91238948-253c7680-e779-11ea-83af-9c1a684599a9.JPG)
+![슬라이드17](https://user-images.githubusercontent.com/54762216/91238952-25d50d00-e779-11ea-9fe0-3651a9804fd2.JPG)
+![슬라이드18](https://user-images.githubusercontent.com/54762216/91238954-25d50d00-e779-11ea-8ab0-c91d70f41f1b.JPG)
+![슬라이드19](https://user-images.githubusercontent.com/54762216/91238956-266da380-e779-11ea-9afb-ffd59eb0e100.JPG)
+![슬라이드20](https://user-images.githubusercontent.com/54762216/91238957-266da380-e779-11ea-972d-c3c3be859140.JPG)
+![슬라이드21](https://user-images.githubusercontent.com/54762216/91238958-27063a00-e779-11ea-9994-9820b15c140e.JPG)
+![슬라이드22](https://user-images.githubusercontent.com/54762216/91238959-279ed080-e779-11ea-8b38-29bf67778555.JPG)
+![슬라이드23](https://user-images.githubusercontent.com/54762216/91238961-279ed080-e779-11ea-851b-8a857a2b0bc8.JPG)
+![슬라이드24](https://user-images.githubusercontent.com/54762216/91238962-28376700-e779-11ea-98f9-ffb2cb33d19d.JPG)
+![슬라이드25](https://user-images.githubusercontent.com/54762216/91238963-28376700-e779-11ea-9a2f-b9bfa5159859.JPG)
+![슬라이드26](https://user-images.githubusercontent.com/54762216/91238964-28cffd80-e779-11ea-9aab-6a18a30bb514.JPG)
+![슬라이드27](https://user-images.githubusercontent.com/54762216/91238965-28cffd80-e779-11ea-995f-9d1ecaa115f5.JPG)
