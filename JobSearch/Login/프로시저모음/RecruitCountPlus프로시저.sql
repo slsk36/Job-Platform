@@ -14,8 +14,8 @@
 --SET QUOTED_IDENTIFIER ON
 --GO
 -- =============================================
--- Author:		권희경
--- Create date: 2020-06-26
+-- Author:		유니나
+-- Create date: 2020-08-26
 -- Description:	구직글 조회수 증가 프로시저
 -- =============================================
 --CREATE PROCEDURE RecruitCountPlus
